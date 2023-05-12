@@ -1,0 +1,27 @@
+{
+	"name" : "hashimikram/lolopay",
+	"description" : "Iss web php framework",
+	"minimum-stability" : "dev",
+	"type" : "library",
+	"license" : "proprietary",
+	"authors" : [{
+			"name" : "Cornel Zgardan",
+			"email" : "zgardancornel@gmail.com"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"lolopay\\" : "lolopay/"
+		}
+	},
+	
+	"require" : {
+		"php" : "~7.3.0",
+		
+	},
+  "config": {
+    "platform": {
+      "ext-mongo": "1.6.16"
+    }
+  }
+}
