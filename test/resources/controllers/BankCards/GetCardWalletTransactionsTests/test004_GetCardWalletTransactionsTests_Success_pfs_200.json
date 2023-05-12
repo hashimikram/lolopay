@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "body": {
+    "viewStatement": {
+      "cardHolderStatementDetails": {
+        "recCnt": "1",
+        "cardPan": {
+          "account": "400000854661",
+          "startDate": "02/28/2016",
+          "endDate": "03/06/2020",
+          "reportDate": "2020/03/06 04:58:31 AM",
+          "currency": "EUR",
+          "cardAccount": [
+            {
+              "transactionList": {
+                "transaction": {
+                  "date": "03/06/2020 04:58:26 AM",
+                  "cardHolderId": "9888880101376138",
+                  "transactionType": "230000",
+                  "mti": "27JR",
+                  "arn": "000000000000",
+                  "stn": "0000000000",
+                  "termId": "",
+                  "authNum": "418798",
+                  "recType": "",
+                  "transactionOrigin": "P",
+                  "description": "Deposit to Card API",
+                  "amount": "000000001000",
+                  "fee": "000000000",
+                  "availableBalance": "000000001000",
+                  "ledgerBalance": "000000001000",
+                  "issuerFee": "000000000",
+                  "clientId": "TEST",
+                  "termNameLocation": "00000",
+                  "termOwner": "",
+                  "termCity": "",
+                  "termState": "",
+                  "termCountry": "",
+                  "surcharge": "000000000",
+                  "rspCode": "000",
+                  "currency": "EUR",
+                  "origTransAmt": "00000000000000",
+                  "termCurrency": "EUR",
+                  "origHoldAmt": "0000000000000"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "customTag": "customTagCreateTransfer",
+  "debitedWalletId": "@debitedWalletId@",
+  "creditedWalletId": "@creditedWalletId@",
+  "amount": {
+    "value": "14",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "2",
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUDED"
+}

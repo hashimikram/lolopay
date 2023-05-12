@@ -1,0 +1,9 @@
+{
+  "Message": "The ressource does not exist",
+  "Type": "ressource_not_found",
+  "Id": "90b7ffa2-b4fe-447e-89f3-b414937a8ade#1582706270",
+  "Date": "1582706272",
+  "errors": {
+    "RessourceNotFound": "Cannot found the ressource Wallet with the id=851998734"
+  }
+}

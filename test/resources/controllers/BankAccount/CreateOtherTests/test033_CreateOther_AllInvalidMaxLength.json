@@ -1,0 +1,16 @@
+{
+  "userId": "@userId@",
+  "country": "JJ",
+  "bic": "iNGBROBU",
+  "accountNumber": "RO52INGB0000999900836988",
+  "ownerName": "Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar Justina Lazar",
+  "ownerAddress": {
+    "addressLine1": "Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2",
+    "addressLine2": "Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari",
+    "city": "Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti",
+    "county": "Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia",
+    "postalCode": "75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001",
+    "country": "JJ"
+  },
+  "customTag": "customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther customTagOther"
+}

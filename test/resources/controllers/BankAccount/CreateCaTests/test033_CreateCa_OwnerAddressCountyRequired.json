@@ -1,0 +1,15 @@
+{
+  "branchCode": "20652",
+  "institutionNumber": "2352",
+  "accountNumber": "59055911",
+  "bankName": "Barclays Bank PLC",
+  "customTag": "custom tag",
+  "userId": "@userId@",
+  "ownerName": "Cornel ZGARDAN",
+  "ownerAddress": {
+    "addressLine1": "615 R Q Pdel Rosario Ext",
+    "city": "Cebu City",
+    "country": "US",
+    "postalCode": "6000"
+  }
+}

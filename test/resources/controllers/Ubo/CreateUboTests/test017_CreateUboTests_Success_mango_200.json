@@ -1,0 +1,21 @@
+{
+"Id": "77640535",
+"CreationDate": "1584972415",
+"LastName": "Zgardan",
+"FirstName": "Cornel",
+"Birthday": "408190459",
+"Nationality": "RO",
+"Address": {
+"AddressLine1": "Bucharest",
+"AddressLine2": "Bucharest",
+"City": "Bucharest",
+"Region": "Bucharest",
+"PostalCode": "032748",
+"Country": "GB"
+},
+"Birthplace": {
+"City": "Bucharest",
+"Country": "RO"
+},
+"IsActive": "1"
+}

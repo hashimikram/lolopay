@@ -1,0 +1,27 @@
+{
+  "Id": "75193257",
+  "Tag": "customTagCreateTransferForRefund",
+  "CreationDate": "1581696563",
+  "AuthorId": "73667824",
+  "CreditedUserId": "73667824",
+  "DebitedFunds": {
+    "Currency": "EUR",
+    "Amount": "23"
+  },
+  "CreditedFunds": {
+    "Currency": "EUR",
+    "Amount": "23"
+  },
+  "Fees": {
+    "Currency": "EUR",
+    "Amount": "0"
+  },
+  "Status": "SUCCEEDED",
+  "ResultCode": "000000",
+  "ResultMessage": "Success",
+  "ExecutionDate": "1581696563",
+  "Type": "TRANSFER",
+  "Nature": "REGULAR",
+  "DebitedWalletId": "74268547",
+  "CreditedWalletId": "74268416"
+}

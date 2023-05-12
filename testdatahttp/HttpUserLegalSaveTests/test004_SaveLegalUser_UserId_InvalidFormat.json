@@ -1,0 +1,14 @@
+{
+"id":"aaa",
+"companyType":"BUSINESS",
+"companyName":"ISS",
+"countryOfResidence":"RO",
+"nationality":"RO",
+"firstName":"Dorin",
+"lastName":"Stan",
+"birthDate": 1497014995,
+"mobilePhone":"+40723326868",
+"companyEmail":"sdorin@gmail.com",
+"email":"sdorin@gmail.com",
+"customTag":"test json"
+}

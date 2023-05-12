@@ -1,0 +1,5 @@
+{
+  "cardId": "@cardId@",
+  "oldStatus": "BLOCKED_PIN",
+  "newStatus": "BLOCKED_FRAUD"
+}

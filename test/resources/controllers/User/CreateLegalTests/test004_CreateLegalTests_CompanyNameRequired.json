@@ -1,0 +1,26 @@
+{
+  "firstName": "Cornel",
+  "lastName": "Zgardan",
+  "email": "zgardancornel@gmail.com",
+  "companyEmail": "zgardancornel@gmail.com",
+  "companyType": "BUSINESS",
+  "companyRegistrationNumber": "ASC123",
+  "mobilePhone": "40754033348",
+  "birthDate": 408190459,
+  "nationality": "RO",
+  "countryOfResidence": "RO",
+  "address": {
+    "addressLine1": "Bucharest",
+    "city": "Bucharest",
+    "county": "Bucharest",
+    "country": "GB",
+    "postalCode": "032748"
+  },
+  "companyAddress": {
+    "addressLine1": "Bucharest",
+    "city": "Bucharest",
+    "county": "Bucharest",
+    "country": "GB",
+    "postalCode": "032748"
+  }
+}

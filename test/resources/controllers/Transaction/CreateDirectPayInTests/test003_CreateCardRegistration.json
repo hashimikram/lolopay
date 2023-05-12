@@ -1,0 +1,7 @@
+{
+  "userId": "@userId@",
+  "currency": "@currency@",
+  "cardType": "CB_VISA_MASTERCARD",
+  "tag": "tagCardRegistration",
+  "apiVersion": "api6"
+}

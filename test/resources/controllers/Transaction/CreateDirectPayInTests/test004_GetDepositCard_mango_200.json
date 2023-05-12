@@ -1,0 +1,17 @@
+{
+  "ExpirationDate": "1230",
+  "Alias": "356999XXXXXX0132",
+  "CardType": "CB_VISA_MASTERCARD",
+  "CardProvider": "VISA",
+  "Country": "ROM",
+  "Product": "G",
+  "BankCode": "unknown",
+  "Active": "true",
+  "Currency": "EUR",
+  "Validity": "VALID",
+  "UserId": "73667824",
+  "Id": "12639018",
+  "Tag": "tagDepositCard",
+  "CreationDate": "1580397402",
+  "Fingerprint": "dfdc6487a33d4071ac252b05afe4bec1"
+}

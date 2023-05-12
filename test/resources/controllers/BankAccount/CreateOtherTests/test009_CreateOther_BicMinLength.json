@@ -1,0 +1,16 @@
+{
+  "userId": "@userId@",
+  "country": "RO",
+  "bic": "ING",
+  "accountNumber": "11696419",
+  "ownerName": "Justina Lazar",
+  "ownerAddress": {
+    "addressLine1": "Aleea Barsanesti, nr.2",
+    "addressLine2": "Militari",
+    "city": "Bucuresti",
+    "county": "Muntenia",
+    "postalCode": "75001",
+    "country": "RO"
+  },
+  "customTag": "customTagOther"
+}

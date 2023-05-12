@@ -1,0 +1,21 @@
+{
+"Id": "77640535",
+"CreationDate": "1584972415",
+"LastName": "Snow",
+"FirstName": "Bob",
+"Birthday": "1463496101",
+"Nationality": "BE",
+"Address": {
+"AddressLine1": "1 Mangopay Street",
+"AddressLine2": "The Loop",
+"City": "Paris",
+"Region": "Ile de France",
+"PostalCode": "75001",
+"Country": "FR"
+},
+"Birthplace": {
+"City": "Namur",
+"Country": "BE"
+},
+"IsActive": ""
+}

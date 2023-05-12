@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "body": {
+    "cardBalance": {
+      "availableBalance": "000000000000",
+      "ledgerBalance": "000000000000",
+      "currencyCode": "978",
+      "currency": "EUR"
+    }
+  }
+}

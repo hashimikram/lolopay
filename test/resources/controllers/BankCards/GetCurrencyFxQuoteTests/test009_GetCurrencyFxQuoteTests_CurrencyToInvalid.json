@@ -1,0 +1,6 @@
+{
+  "cardId": "@cardId@",
+  "currencyFrom": "EUR",
+  "currencyTo": "AAA",
+  "amount": 100
+}

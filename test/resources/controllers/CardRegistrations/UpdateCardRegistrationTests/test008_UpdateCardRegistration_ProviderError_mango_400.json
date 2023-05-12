@@ -1,0 +1,9 @@
+{
+  "Message": "One or several required parameters are missing or incorrect. An incorrect resource ID also raises this kind of error.",
+  "Type": "param_error",
+  "Id": "ed930ab7-4164-4649-a708-18a1f677e59d#1583137636",
+  "Date": 1583137637,
+  "errors": {
+    "RegistrationData": "The value  is not valid"
+  }
+}

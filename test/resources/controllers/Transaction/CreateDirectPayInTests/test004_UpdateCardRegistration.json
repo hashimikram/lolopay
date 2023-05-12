@@ -1,0 +1,6 @@
+{
+  "userId": "@userId@",
+  "registrationData": "@registrationData@",
+  "tag": "tagCardRegistrationUpdate",
+  "apiVersion": "api6"
+}

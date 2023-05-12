@@ -1,0 +1,8 @@
+{
+	"cardId": "@cardId@",
+	"beneficiaryName": "Alin IFTEMI",
+	"paymentAmount": "5000",
+	"reference": "INTREF01",
+	"creditorIban": "RO59INGB0000999903181546",
+	"creditorBic": "INGBROBU"
+}

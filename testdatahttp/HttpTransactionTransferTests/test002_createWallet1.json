@@ -1,0 +1,7 @@
+{
+"userId": "@userId1@",
+"Description":"myWallet",
+"CustomTag":"test",
+"Currency":"EUR",
+"balance":{"value":0,"currency":"EUR"}
+}

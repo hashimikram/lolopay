@@ -1,0 +1,9 @@
+{
+  "Message": "One or several required parameters are missing or incorrect. An incorrect resource ID also raises this kind of error.",
+  "Type": "param_error",
+  "Id": "6e9ba21b-a256-40d4-b174-a84cb74ea28a#1580735044",
+  "Date": 1580735045.0,
+  "errors": {
+    "PostalCode": "Only alphanumeric characters, spaces and dashes are allowed, with a maximum length of 50 characters."
+  }
+}

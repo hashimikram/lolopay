@@ -1,0 +1,16 @@
+{
+  "Id": "74288575",
+  "Tag": "tagCardRegistration",
+  "CreationDate": "1580370296",
+  "UserId": "73667824",
+  "AccessKey": "1X0m87dmM2LiwFgxPLBJ",
+  "PreregistrationData": "_nfGWK2M2AY-H3lgOikqrHZ7xwS9Poln2SUYE1NbNTvkjqwHI1pjYHH3neqv_-SuS4wCy-yiraxeE65tmxOe8A",
+  "RegistrationData": "",
+  "CardId": "",
+  "CardType": "CB_VISA_MASTERCARD",
+  "CardRegistrationURL": "http://localhost/webpayment/getToken",
+  "ResultCode": "",
+  "ResultMessage": "",
+  "Currency": "EUR",
+  "Status": "CREATED"
+}

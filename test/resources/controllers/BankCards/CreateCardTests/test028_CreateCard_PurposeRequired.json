@@ -1,0 +1,14 @@
+{
+  "userId": "@userId@",
+  "type": "VIRTUAL",
+  "customTag": "custom tag",
+  "embossName": "",
+  "firstName": "Cornel",
+  "lastName": "ZGARDAN",
+  "cardUserInfo": {
+    "employmentStatus": "DIRECTOR_OWNER",
+    "occupation": "BANKING_INSURANCE",
+    "monthlyIncome": "BELOW_1000_EUR",
+    "estate": "BELOW_50K_EUR"
+  }
+}

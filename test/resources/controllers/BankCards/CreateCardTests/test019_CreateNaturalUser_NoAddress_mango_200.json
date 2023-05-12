@@ -1,0 +1,26 @@
+{
+  "Address": {
+    "AddressLine1": null,
+    "AddressLine2": null,
+    "City": null,
+    "Region": null,
+    "PostalCode": null,
+    "Country": null
+  },
+  "FirstName": "Cornel",
+  "LastName": "Zgardan",
+  "Birthday": 408190459,
+  "Nationality": "RO",
+  "CountryOfResidence": "RO",
+  "Occupation": null,
+  "IncomeRange": null,
+  "ProofOfIdentity": null,
+  "ProofOfAddress": null,
+  "Capacity": "NORMAL",
+  "PersonType": "NATURAL",
+  "Email": "zgardancornel@gmail.com",
+  "KYCLevel": "LIGHT",
+  "Id": "74890440",
+  "Tag": null,
+  "CreationDate": 1581420525
+}

@@ -1,0 +1,17 @@
+{
+	"firstName": "Alin",
+	"lastName": "IFTEMI",
+	"email": "alin.iftemi@gmail.com",
+	"mobilePhone": "+40722195055",
+	"birthDate": 1497014995,
+	"nationality": "RO",
+	"countryOfResidence": "RO",
+	"address": {
+		"addressLine1": "Strada Bucovina Numarul 7, Bloc G2, Sc. 3, Ap 54",
+		"addressLine2": "Etaj 3, Interfon 54",
+		"city": "Bucharest",
+		"county": "Sector 3",
+		"country": "RO",
+		"postalCode": "1234567"
+	}
+}

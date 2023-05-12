@@ -1,0 +1,9 @@
+{
+  "userId": "@userId@",
+  "customTag": "customTagWalletCredit",
+  "description": "@currency@ credit wallet for @userId@",
+  "type": "USER",
+  "balance": 0,
+  "blockedBalance": 0,
+  "currency": "@currency@"
+}

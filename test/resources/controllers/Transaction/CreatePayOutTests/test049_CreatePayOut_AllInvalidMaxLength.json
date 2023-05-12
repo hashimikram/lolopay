@@ -1,0 +1,15 @@
+{
+  "customTag": "customTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOutcustomTagCreatePayOut",
+  "debitedWalletId": "123dwi123",
+  "amount": {
+    "value": "-8",
+    "currency": "RON"
+  },
+  "fees": {
+    "value": "-2",
+    "currency": "RON"
+  },
+  "feeModel": "INCLUD",
+  "bankAccountId": "456bai456",
+  "bankWireRef": "invoice 885511"
+}

@@ -1,0 +1,9 @@
+{
+  "Message": "The ressource does not exist",
+  "Type": "ressource_not_found",
+  "Id": "232a70be-843f-4588-8f58-fe4badd4684f#1582893359",
+  "Date": "1582893360",
+  "errors": {
+    "RessourceNotFound": "Cannot found the ressource CardRegistration with the id=asd@.asd"
+  }
+}

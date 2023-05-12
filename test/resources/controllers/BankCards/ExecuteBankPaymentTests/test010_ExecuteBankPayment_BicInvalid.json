@@ -1,0 +1,7 @@
+{
+  "cardId": "@cardId@",
+  "beneficiaryName": "john doe",
+  "creditorBic": "BARCGB22X",
+  "paymentAmount": 100,
+  "reference": "asdasdref"
+}

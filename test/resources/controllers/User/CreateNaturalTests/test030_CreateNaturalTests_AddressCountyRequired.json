@@ -1,0 +1,15 @@
+{
+  "firstName": "Cornel",
+  "lastName": "Zgardan",
+  "email": "zgardancornel@gmail.com",
+  "mobilePhone": "40754033348",
+  "birthDate": 408190459,
+  "nationality": "RO",
+  "countryOfResidence": "RO",
+  "address": {
+    "addressLine1": "Bucharest",
+    "city": "Bucharest",
+    "country": "US",
+    "postalCode": "03274"
+  }
+}

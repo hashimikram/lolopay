@@ -1,0 +1,26 @@
+{
+  "Address": {
+    "AddressLine1": "Aleea Barsanesti, nr.2",
+    "AddressLine2": "Militari",
+    "City": "Bucuresti",
+    "Region": "Muntenia",
+    "PostalCode": "75001",
+    "Country": "RO"
+  },
+  "FirstName": "Justina",
+  "LastName": "Lazar",
+  "Birthday": "497801331",
+  "Nationality": "RO",
+  "CountryOfResidence": "RO",
+  "Occupation": "Programator",
+  "IncomeRange": "2",
+  "ProofOfIdentity": "",
+  "ProofOfAddress": "",
+  "Capacity": "NORMAL",
+  "PersonType": "NATURAL",
+  "Email": "justina.lazar@gmoneymail.me",
+  "KYCLevel": "LIGHT",
+  "Id": "73667824",
+  "Tag": "",
+  "CreationDate": "1580129116"
+}

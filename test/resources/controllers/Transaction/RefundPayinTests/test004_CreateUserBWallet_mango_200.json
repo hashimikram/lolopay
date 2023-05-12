@@ -1,0 +1,15 @@
+{
+  "Description": "EUR credit wallet for 73567939",
+  "Owners": [
+    "73567939"
+  ],
+  "Balance": {
+    "Currency": "EUR",
+    "Amount": "0"
+  },
+  "Currency": "EUR",
+  "FundsType": "DEFAULT",
+  "Id": "74268547",
+  "Tag": "customTagWalletCredit",
+  "CreationDate": "1580314063"
+}

@@ -1,0 +1,34 @@
+{
+  "Id": "76193251",
+  "Tag": "",
+  "CreationDate": "1581928816",
+  "AuthorId": "73567939",
+  "CreditedUserId": "73567939",
+  "DebitedFunds": {
+    "Currency": "EUR",
+    "Amount": "9"
+  },
+  "CreditedFunds": {
+    "Currency": "EUR",
+    "Amount": "7"
+  },
+  "Fees": {
+    "Currency": "EUR",
+    "Amount": "2"
+  },
+  "Status": "SUCCEEDED",
+  "ResultCode": "000000",
+  "ResultMessage": "Success",
+  "ExecutionDate": "1581928816",
+  "Type": "TRANSFER",
+  "Nature": "REFUND",
+  "InitialTransactionId": "75193251",
+  "InitialTransactionType": "TRANSFER",
+  "InitialTransactionNature": "REGULAR",
+  "DebitedWalletId": "74268416",
+  "CreditedWalletId": "74268547",
+  "RefundReason": {
+  "RefundReasonMessage": "",
+  "RefundReasonType": "OTHER"
+  }
+}

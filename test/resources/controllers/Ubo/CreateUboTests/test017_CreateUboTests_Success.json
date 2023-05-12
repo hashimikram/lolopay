@@ -1,0 +1,18 @@
+{
+"FirstName": "Cornel",
+"LastName": "Zgardan",
+"Address": {
+"AddressLine1": "Bucharest",
+"AddressLine2": "Bucharest",
+"City": "Bucharest",
+"Region": "Bucharest",
+"PostalCode": "032748",
+"Country": "GB"
+},
+"Nationality": "RO",
+"Birthday": 408190459,
+"Birthplace": {
+"City": "Bucharest",
+"Country": "RO"
+}
+}

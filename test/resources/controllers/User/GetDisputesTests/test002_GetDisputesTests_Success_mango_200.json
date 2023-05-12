@@ -1,0 +1,29 @@
+[
+  {
+    "InitialTransactionId": "12639843",
+    "InitialTransactionType": "PAYIN",
+    "InitialTransactionNature": "REGULAR",
+    "DisputeType": "CONTESTABLE",
+    "ContestDeadlineDate": "1467331200",
+    "DisputedFunds": {
+      "Currency": "EUR",
+      "Amount": "100"
+    },
+    "ContestedFunds": {
+      "Currency": "EUR",
+      "Amount": "100"
+    },
+    "Status": "CLOSED",
+    "StatusMessage": "",
+    "DisputeReason": {
+      "DisputeReasonMessage": "",
+      "DisputeReasonType": "FRAUD"
+    },
+    "ResultCode": "LOST",
+    "ResultMessage": "",
+    "Id": "12327031",
+    "Tag": "custom meta",
+    "CreationDate": "1463496442",
+    "RepudiationId": "12639879"
+  }
+]

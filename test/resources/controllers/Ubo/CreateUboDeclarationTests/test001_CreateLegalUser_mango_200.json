@@ -1,0 +1,37 @@
+{
+  "HeadquartersAddress": {
+    "AddressLine1": "Bucharest",
+    "AddressLine2": null,
+    "City": "Bucharest",
+    "Region": "Bucharest",
+    "PostalCode": "03274",
+    "Country": "GB"
+  },
+  "LegalRepresentativeAddress": {
+    "AddressLine1": "Bucharest",
+    "AddressLine2": null,
+    "City": "Bucharest",
+    "Region": "Bucharest",
+    "PostalCode": "03274",
+    "Country": "GB"
+  },
+  "Name": "My company 1",
+  "LegalPersonType": "BUSINESS",
+  "LegalRepresentativeFirstName": "Cornel",
+  "LegalRepresentativeLastName": "Zgardan",
+  "LegalRepresentativeEmail": "zgardancornel@gmail.com",
+  "LegalRepresentativeBirthday": 408190459,
+  "LegalRepresentativeNationality": "RO",
+  "LegalRepresentativeCountryOfResidence": "RO",
+  "ProofOfRegistration": null,
+  "ShareholderDeclaration": null,
+  "Statute": null,
+  "LegalRepresentativeProofOfIdentity": null,
+  "CompanyNumber": "ASC123",
+  "PersonType": "LEGAL",
+  "Email": "zgardancornel@gmail.com",
+  "KYCLevel": "LIGHT",
+  "Id": "74513987",
+  "Tag": null,
+  "CreationDate": 1580804229
+}

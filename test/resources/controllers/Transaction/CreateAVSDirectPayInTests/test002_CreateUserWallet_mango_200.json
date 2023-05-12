@@ -1,0 +1,15 @@
+{
+  "Description": "EUR wallet for 73667824",
+  "Owners": [
+    "73667824"
+  ],
+  "Balance": {
+    "Currency": "EUR",
+    "Amount": "0"
+  },
+  "Currency": "EUR",
+  "FundsType": "DEFAULT",
+  "Id": "74268416",
+  "Tag": "customTagWallet",
+  "CreationDate": "1580314063"
+}

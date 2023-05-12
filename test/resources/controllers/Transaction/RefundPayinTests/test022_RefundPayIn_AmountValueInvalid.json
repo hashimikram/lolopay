@@ -1,0 +1,7 @@
+{
+  "customTag": "RefundPayin",
+  "amount": {
+    "value": -22,
+    "currency": "EUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+"companyType":"BUSINESS",
+"companyName":"ISS",
+"countryOfResidence":"RO",
+"nationality":"RO",
+"firstName":"Dorin",
+"lastName":"Stan",
+"birthDate": -2208988800,
+"mobilePhone":"+40723326868",
+"companyEmail":"sdorin@gmail.com",
+"email":"sdorin@gmail.com",
+"customTag":"test json",
+"address":{
+		"addressLine1":"Address line 1",
+		"addressLine2":"Address line 2",
+		"city" : "Bucharest",
+		"country" : "RO",
+		"postalCode" : "12523"
+	},
+"companyAddress":{
+		"addressLine1":"Address line 1",
+		"addressLine2":"Address line 2",
+		"city" : "Bucharest",
+		"county": "Sector 3",
+		"country" : "RO",
+		"postalCode" : "12523"
+	}
+}

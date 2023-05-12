@@ -1,0 +1,15 @@
+{
+	"userId": "@userId@",
+	"ownerName": "Dorin",
+	"ownerAddress": {
+		"addressLine1": "Str Scolilor",
+		"city": "Braila",
+		"region": "not in moldova",
+		"postalCode": "778855",
+		"county": "Braila",
+		"country": "RO"
+	},
+	"customTag": "test",
+	"iban": "NL84ABNA0491757523",
+	"bic": "CRLYFRPP049"
+}

@@ -1,0 +1,13 @@
+{
+  "debitedWalletId": "@debitedWalletId@",
+  "creditedWalletId": "@creditedWalletId@",
+  "amount": {
+    "value": "9",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "1",
+    "currency": "@currency@"
+  },
+  "feeModel": "NOT_INCLUDED"
+}

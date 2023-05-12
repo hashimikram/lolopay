@@ -1,0 +1,26 @@
+{
+  "Address": {
+    "AddressLine1": "1 Mangopay Street",
+    "AddressLine2": "The Loop",
+    "City": "Paris",
+    "Region": "Ile de France",
+    "PostalCode": "75001",
+    "Country": "FR"
+  },
+  "FirstName": "Joe",
+  "LastName": "Blogs",
+  "Birthday": "1463496101",
+  "Nationality": "GB",
+  "CountryOfResidence": "FR",
+  "Occupation": "Carpenter",
+  "IncomeRange": "2",
+  "ProofOfIdentity": "",
+  "ProofOfAddress": "",
+  "Capacity": "NORMAL",
+  "PersonType": "NATURAL",
+  "Email": "support@mangopay.com",
+  "KYCLevel": "LIGHT",
+  "Id": "74464004",
+  "Tag": "",
+  "CreationDate": "1579104471"
+}

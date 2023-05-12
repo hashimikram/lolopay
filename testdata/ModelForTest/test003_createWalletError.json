@@ -1,0 +1,6 @@
+{
+	"userId": "1234",
+	"description": "User EUR wallet",
+	"currency": "EUR",
+	"customTag": "client specific data"
+}

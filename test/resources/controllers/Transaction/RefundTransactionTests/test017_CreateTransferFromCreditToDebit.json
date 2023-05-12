@@ -1,0 +1,14 @@
+{
+  "customTag": "customTagCreateTransferForRefund",
+  "debitedWalletId": "@debitedWalletId@",
+  "creditedWalletId": "@creditedWalletId@",
+  "amount": {
+    "value": "23",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "0",
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUDED"
+}

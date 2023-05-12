@@ -1,0 +1,20 @@
+{
+	"OwnerAddress": {
+		"AddressLine1": "Aleea Barsanesti, nr.2",
+		"AddressLine2": "Militari",
+		"City": "Bucuresti",
+		"Region": "Muntenia",
+		"PostalCode": "75001",
+		"Country": "RO"
+	},
+	"AccountNumber":"11696439",
+	"ABA":"071000288",
+	"DepositAccountType":"CHECKING",
+	"UserId": "73667824",
+	"OwnerName":"Justina Lazar",
+	"Type": "US",
+	"Id": "73828717",
+	"Tag": "customTagUsForPayOut",
+	"CreationDate": "1579522375",
+	"Active": ""
+}

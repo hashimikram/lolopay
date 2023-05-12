@@ -1,0 +1,7 @@
+{
+  "cardId": "@cardId@",
+  "beneficiaryName": "john doe",
+  "creditorIban": "SE3550000000054910000",
+  "paymentAmount": 100,
+  "reference": "asdasdref"
+}

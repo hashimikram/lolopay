@@ -1,0 +1,18 @@
+{
+  "id": "@userId@",
+  "firstName": "Cornel2",
+  "lastName": "Zgardan",
+  "email": "zgardancornel@gmail.com",
+  "mobilePhone": "40754033348",
+  "birthDate": 408190459,
+  "nationality": "RO",
+  "countryOfResidence": "RO",
+  "occupation": "adasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdadaadasdasyd87asdada",
+  "address": {
+    "addressLine1": "Bucharest",
+    "city": "Bucharest",
+    "county": "Bucharest",
+    "country": "GB",
+    "postalCode": "03274"
+  }
+}

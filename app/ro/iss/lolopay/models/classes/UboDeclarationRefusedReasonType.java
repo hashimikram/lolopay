@@ -1,0 +1,12 @@
+package ro.iss.lolopay.models.classes;
+
+public enum UboDeclarationRefusedReasonType {
+  SPECIFIC_CASE, //
+  DECLARATION_DO_NOT_MATCH_UBO_INFORMATION, //
+  WRONG_UBO_INFORMATION, //
+  MISSING_UBO, //
+  UBO_IDENTITY_NEEDED, //
+  DOCUMENTS_NEEDED, //
+  SHAREHOLDERS_DECLARATION_NEEDED, //
+  ORGANIZATION_CHART_NEEDED, //
+}

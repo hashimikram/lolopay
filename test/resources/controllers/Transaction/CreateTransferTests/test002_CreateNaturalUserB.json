@@ -1,0 +1,19 @@
+{
+  "firstName": "Cornel",
+  "lastName": "Zgardan",
+  "email": "cornel@gmoneymail.me",
+  "mobilePhone": "40754033348",
+  "occupation": "CEO",
+  "incomeRange": "BELOW_50K",
+  "birthDate": 497801331,
+  "nationality": "RO",
+  "countryOfResidence": "RO",
+  "address": {
+    "addressLine1": "Baba Novac, nr.110",
+    "addressLine2": "Parcul IOR",
+    "city": "Bucuresti",
+    "county": "Muntenia",
+    "postalCode": "23006",
+    "country": "RO"
+  }
+}

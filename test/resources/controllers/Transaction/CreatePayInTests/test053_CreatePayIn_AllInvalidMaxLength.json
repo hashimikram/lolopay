@@ -1,0 +1,19 @@
+{
+  "customTag": "CustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayInCustomTagCreatePayIn",
+  "creditedWalletId": "1234jjll",
+  "amount": {
+  "value": "-11",
+  "currency": "RON"
+  },
+  "fees": {
+  "value": "-2",
+  "currency": "RON"
+  },
+  "feeModel": "INCLUD",
+  "returnURL": "returnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURLreturnURL",
+  "cardType": "CB_VISA_MASTERCARD_TEST",
+  "secureMode": "DEF",
+  "culture": "JJ",
+  "templateURL": "templateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURLtemplateURL",
+  "statementDescriptor": "qq 123 bb&cc"
+}

@@ -1,0 +1,9 @@
+{
+  "Message": "The ressource does not exist",
+  "Type": "ressource_not_found",
+  "Id": "54d0e3dc-60c6-49ba-97b3-d7f2c10e8bdf#1582572725",
+  "Date": "1582572726",
+  "errors": {
+    "RessourceNotFound": "Cannot found the ressource User with the id=a@#a"
+  }
+}

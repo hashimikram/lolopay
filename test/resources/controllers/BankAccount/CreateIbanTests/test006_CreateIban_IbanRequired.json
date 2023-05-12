@@ -1,0 +1,15 @@
+{
+  "userId": "@userId@",
+  "iban": "",
+  "bic": "INGBROBU",
+  "ownerName": "JustinaLazar",
+  "ownerAddress": {
+    "addressLine1": "Aleea Barsanesti, nr.2",
+    "addressLine2": "Militari",
+    "city": "Bucuresti",
+    "county": "Muntenia",
+    "postalCode": "75001",
+    "country": "RO"
+  },
+  "customTag": "customTagIban"
+}

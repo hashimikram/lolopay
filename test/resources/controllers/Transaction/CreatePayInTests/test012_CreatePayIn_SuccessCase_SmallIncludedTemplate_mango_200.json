@@ -1,0 +1,36 @@
+{
+  "Id": "74447466",
+  "Tag": "customTagCreatePayIn",
+  "CreationDate": 1580712380,
+  "AuthorId": "73667824",
+  "CreditedUserId": "73667824",
+  "DebitedFunds": {
+    "Currency": "EUR",
+    "Amount": 10
+  },
+  "CreditedFunds": {
+    "Currency": "EUR",
+    "Amount": 8
+  },
+  "Fees": {
+    "Currency": "EUR",
+    "Amount": 2
+  },
+  "Status": "CREATED",
+  "ResultCode": null,
+  "ResultMessage": null,
+  "ExecutionDate": null,
+  "Type": "PAYIN",
+  "Nature": "REGULAR",
+  "CreditedWalletId": "74268416",
+  "DebitedWalletId": null,
+  "PaymentType": "CARD",
+  "ExecutionType": "WEB",
+  "RedirectURL": "https://homologation-secure-p.payline.com/webpayment/step2.do?reqCode=prepareStep2&token=10fb0gJ6oQgNAw9Ue3021580920186555",
+  "ReturnURL": "http://localhost/callbacks/mango/moneymailme/m3Service/return?transactionId=74447466",
+  "TemplateURL": "http://localhost/Content/PaylineTemplate?rp=1a617cb67c4045978e8d3e4678ca9ffa&transactionId=74447466",
+  "CardType": "CB_VISA_MASTERCARD",
+  "Culture": "EN",
+  "SecureMode": "DEFAULT",
+  "StatementDescriptor": null
+}

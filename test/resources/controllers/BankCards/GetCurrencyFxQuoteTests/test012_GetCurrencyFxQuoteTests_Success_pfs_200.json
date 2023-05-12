@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "body": {
+    "currencyFXQuote": {
+      "currencyFrom": "EUR",
+      "currencyTo": "GBP",
+      "amount": "0.81",
+      "rate": "0.8055"
+    }
+  }
+}

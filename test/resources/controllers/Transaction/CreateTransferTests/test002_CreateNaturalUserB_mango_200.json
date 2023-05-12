@@ -1,0 +1,26 @@
+{
+  "Address": {
+    "AddressLine1": "Baba Novac, nr.110",
+    "AddressLine2": "Parcul IOR",
+    "City": "Bucuresti",
+    "Region": "Muntenia",
+    "PostalCode": "23006",
+    "Country": "RO"
+  },
+  "FirstName": "Cornel",
+  "LastName": "Zgardan",
+  "Birthday": "497801331",
+  "Nationality": "RO",
+  "CountryOfResidence": "RO",
+  "Occupation": "CEO",
+  "IncomeRange": "3",
+  "ProofOfIdentity": "",
+  "ProofOfAddress": "",
+  "Capacity": "NORMAL",
+  "PersonType": "NATURAL",
+  "Email": "cornel@gmoneymail.me",
+  "KYCLevel": "LIGHT",
+  "Id": "73567939",
+  "Tag": "",
+  "CreationDate": "1580129116"
+}

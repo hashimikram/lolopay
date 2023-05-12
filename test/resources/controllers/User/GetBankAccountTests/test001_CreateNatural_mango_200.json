@@ -1,0 +1,26 @@
+{
+  "Address": {
+    "AddressLine1": "Bucharest",
+    "AddressLine2": null,
+    "City": "Bucharest",
+    "Region": "Bucharest",
+    "PostalCode": "032748",
+    "Country": "GB"
+  },
+  "FirstName": "Cornel",
+  "LastName": "Zgardan",
+  "Birthday": 408190459,
+  "Nationality": "RO",
+  "CountryOfResidence": "RO",
+  "Occupation": null,
+  "IncomeRange": null,
+  "ProofOfIdentity": null,
+  "ProofOfAddress": null,
+  "Capacity": "NORMAL",
+  "PersonType": "NATURAL",
+  "Email": "zgardancornel@gmail.com",
+  "KYCLevel": "LIGHT",
+  "Id": "74464004",
+  "Tag": null,
+  "CreationDate": 1580730515
+}

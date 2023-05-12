@@ -1,0 +1,9 @@
+{
+  "Message": "One or several required parameters are missing or incorrect. An incorrect resource ID also raises this kind of error.",
+  "Type": "param_error",
+  "Id": "7c929389-b0e4-4e6f-9755-bb777f2d0447#1582012242",
+  "Date": "1582012243",
+  "errors": {
+    "AuthorId": "Author not found"
+  }
+}

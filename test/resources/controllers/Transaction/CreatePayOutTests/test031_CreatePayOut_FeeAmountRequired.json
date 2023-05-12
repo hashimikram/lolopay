@@ -1,0 +1,14 @@
+{
+  "customTag": "customTagCreatePayOut",
+  "debitedWalletId": "@debitedWalletId@",
+  "amount": {
+    "value": "8",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUDED",
+  "bankAccountId": "@bankAccountId@",
+  "bankWireRef": "invoice 8855"
+}

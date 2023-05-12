@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "body": {
+    "cardIssue": {
+      "cardHolderId": "400000831111",
+      "availableBalance": 0.0,
+      "ledgerBalance": 0.0
+    },
+    "referenceId": "c38b3c8c-ca9c-4a3c-93db-36a1975bed7d-P"
+  }
+}

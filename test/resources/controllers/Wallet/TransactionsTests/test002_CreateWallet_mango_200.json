@@ -1,0 +1,15 @@
+{
+  "Description": "My awesome description",
+  "Owners": [
+    "74449321"
+  ],
+  "Balance": {
+    "Currency": "EUR",
+    "Amount": 0
+  },
+  "Currency": "EUR",
+  "FundsType": "DEFAULT",
+  "Id": "74449322",
+  "Tag": null,
+  "CreationDate": 1580718065
+}

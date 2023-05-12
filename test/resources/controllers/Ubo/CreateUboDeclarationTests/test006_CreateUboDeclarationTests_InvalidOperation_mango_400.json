@@ -1,0 +1,9 @@
+{
+  "Message": "Internal Server Error",
+  "Type": "ressource_not_found",
+  "Id": "9610c042-1b5b-498f-8140-b46cff1e142b#1581064075",
+  "Date": 1581064076.0,
+  "errors": {
+    "RessourceNotFound": "Cannot found the ressource UserLegal with the id=74713708 "
+  }
+}

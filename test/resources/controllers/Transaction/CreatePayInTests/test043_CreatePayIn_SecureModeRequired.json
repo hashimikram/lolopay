@@ -1,0 +1,17 @@
+{
+  "customTag": "customTagCreatePayIn",
+  "creditedWalletId": "@creditedWalletId@",
+  "amount": {
+    "value": "11",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "0",
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUDED",
+  "returnURL": "@returnURL@",
+  "cardType": "CB_VISA_MASTERCARD",
+  "culture": "EN",
+  "statementDescriptor": "Feb2020"
+}

@@ -1,0 +1,4 @@
+OPEN CONF FILE FOR VI EDITING: 	sudo vi /etc/mongod.conf
+DELETE MONGO DB FILES: 			sudo rm -rf /var/lib/mongodb
+DELETE MONGO DB LOG: 			sudo rm /var/log/mongodb/mongod.log
+VIEW LOG: 						sudo cat /var/log/mongodb/mongod.log

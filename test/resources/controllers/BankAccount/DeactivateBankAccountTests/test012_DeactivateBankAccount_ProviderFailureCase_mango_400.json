@@ -1,0 +1,9 @@
+{
+  "Message": "One or several required parameters are missing or incorrect. An incorrect resource ID also raises this kind of error.",
+  "Type": "param_error",
+  "Id": "d5689678-9a98-4c83-b773-95293ee9be01#1580227668",
+  "Date": "1580227669",
+  "errors": {
+    "BankAccountId": "The value 85711111 is not valid"
+  }
+}

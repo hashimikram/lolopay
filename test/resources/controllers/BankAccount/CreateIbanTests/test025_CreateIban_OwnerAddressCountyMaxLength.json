@@ -1,0 +1,15 @@
+{
+  "userId": "@userId@",
+  "iban": "RO52INGB0000999900836988",
+  "bic": "INGBROBU",
+  "ownerName": "Justina Lazar",
+  "ownerAddress": {
+    "addressLine1": "Aleea Barsanesti, nr.2",
+    "addressLine2": "Militari",
+    "city": "Bucuresti",
+    "county": "Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia",
+    "postalCode": "75001",
+    "country": "RO"
+  },
+  "customTag": "customTagIban"
+}

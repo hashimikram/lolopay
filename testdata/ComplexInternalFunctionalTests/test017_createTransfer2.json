@@ -1,0 +1,8 @@
+{
+"debitedWalletId":"@walletId1@",
+"creditedWalletId":"@walletId2@",
+"amount":{"value":"1000","currency":"EUR"},
+"fees":{"value":"15","currency":"EUR"},
+"feeModel":"NOT_INCLUDED",
+"customTag":"test"
+}

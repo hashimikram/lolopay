@@ -1,0 +1,49 @@
+{
+  "Id": "74447455",
+  "Tag": "customTagCreateDirectPayIn",
+  "CreationDate": 1582556622,
+  "AuthorId": "75561981",
+  "CreditedUserId": "75561981",
+  "DebitedFunds": {
+    "Currency": "EUR",
+    "Amount": 70
+  },
+  "CreditedFunds": {
+    "Currency": "EUR",
+    "Amount": 70
+  },
+  "Fees": {
+    "Currency": "EUR",
+    "Amount": 0
+  },
+  "Status": "SUCCEEDED",
+  "ResultCode": "000000",
+  "ResultMessage": "Success",
+  "ExecutionDate": 1582556623,
+  "Type": "PAYIN",
+  "Nature": "REGULAR",
+  "CreditedWalletId": "75561989",
+  "DebitedWalletId": null,
+  "PaymentType": "CARD",
+  "ExecutionType": "DIRECT",
+  "SecureMode": "DEFAULT",
+  "CardId": "75562003",
+  "SecureModeReturnURL": null,
+  "SecureModeRedirectURL": null,
+  "SecureModeNeeded": false,
+  "Billing": {
+    "Address": {
+      "AddressLine1": null,
+      "AddressLine2": null,
+      "City": null,
+      "Region": null,
+      "PostalCode": null,
+      "Country": null
+    }
+  },
+  "Culture": "EN",
+  "SecurityInfo": {
+    "AVSResult": "NO_CHECK"
+  },
+  "StatementDescriptor": "Feb2020"
+}

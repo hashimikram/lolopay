@@ -1,0 +1,16 @@
+{
+  "customTag": "customTagCreateDirectPayIn",
+  "creditedWalletId": "@creditedWalletId@",
+  "amount": {
+    "value": "10",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "2",
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUDED",
+  "secureMode": "DEFAULT",
+  "secureModeReturnURL": "@secureModeReturnURL@",
+  "cardId": "@cardId@"
+}

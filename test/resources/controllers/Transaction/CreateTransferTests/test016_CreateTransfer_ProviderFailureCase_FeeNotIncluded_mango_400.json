@@ -1,0 +1,9 @@
+{
+  "Message": "One or several required parameters are missing or incorrect. An incorrect resource ID also raises this kind of error.",
+  "Type": "param_error",
+  "Id": "d06274f9-3157-46e4-915f-85d1a531ba6c#1581491104",
+  "Date": "1581491105",
+  "errors": {
+    "CreditedWalletId": "Wallet not found"
+  }
+}

@@ -1,0 +1,18 @@
+{
+"userId" : "@userId@",
+"ownerName" : "Dorin",
+"ownerAddress" :  {
+		"addressLine1": "Str Scolilor",
+		"addressLine2": null,
+		"city": "Braila",
+		"region": "not in moldova",
+		"postalCode": "778855",
+		"county": "Braila",
+		"country": "RO"
+	},
+"branchCode":"00111",
+"institutionNumber":"121a",
+"accountNumber" : "11696221",
+"bankName" : "The Bank",
+"customTag" : "test us account"
+}

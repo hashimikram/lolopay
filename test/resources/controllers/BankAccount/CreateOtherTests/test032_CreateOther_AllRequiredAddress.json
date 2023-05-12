@@ -1,0 +1,15 @@
+{
+  "userId": "",
+  "bic": "",
+  "accountNumber": "",
+  "ownerName": "",
+  "ownerAddress": {
+    "addressLine1": "",
+    "addressLine2": "",
+    "city": "",
+    "county": "",
+    "postalCode": "",
+    "country": ""
+  },
+  "customTag": ""
+}

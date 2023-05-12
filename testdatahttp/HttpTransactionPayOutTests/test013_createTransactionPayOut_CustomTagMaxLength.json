@@ -1,0 +1,9 @@
+{
+"debitedWalletId" : "@walletId@",
+"amount":{"value":"100","currency":"EUR"},
+"fees":{"value":"5","currency":"EUR"},
+"feeModel":"NOT_INCLUDED",
+"bankAccountId" : "@bankAccountId@", 
+"bankWireRef" : "invoice nr 1", 
+"customTag" : "testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+}

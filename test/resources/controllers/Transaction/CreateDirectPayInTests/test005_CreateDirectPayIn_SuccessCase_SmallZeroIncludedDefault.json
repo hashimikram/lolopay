@@ -1,0 +1,17 @@
+{
+  "customTag": "customTagCreateDirectPayIn",
+  "creditedWalletId": "@creditedWalletId@",
+  "amount": {
+    "value": "10",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "0",
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUDED",
+  "secureModeReturnURL": "@secureModeReturnURL@",
+  "cardId": "@cardId@",
+  "secureMode": "DEFAULT",
+  "statementDescriptor": "Feb2020"
+}

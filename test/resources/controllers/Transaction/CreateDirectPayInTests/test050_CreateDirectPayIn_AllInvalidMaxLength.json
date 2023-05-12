@@ -1,0 +1,17 @@
+{
+  "customTag": "customTagCreateDirectPayIn customTagCreateDirectPayIn customTagCreateDirectPayIn customTagCreateDirectPayIn customTagCreateDirectPayIn customTagCreateDirectPayIn customTagCreateDirectPayIn customTagCreateDirectPayIn customTagCreateDirectPayIn customTagCreateDirectPayIn",
+  "creditedWalletId": "1234jjll",
+  "amount": {
+  "value": "-11",
+  "currency": "RON"
+  },
+  "fees": {
+  "value": "-2",
+  "currency": "RON"
+  },
+  "feeModel": "INCLUD",
+  "secureModeReturnURL": "secureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURL",
+  "cardId": "1234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678",
+  "secureMode": "DEF",
+  "statementDescriptor": "qq 123 bb&cc"
+}

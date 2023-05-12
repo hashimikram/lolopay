@@ -1,0 +1,15 @@
+{
+"userId" : "@userId@",
+"ownerName" : "Dorin",
+"ownerAddress" :  {
+		"addressLine1": "Str Scolilor",
+		"addressLine2": null,
+		"city": "Braila",
+		"region": "not in moldova",
+		"postalCode": "778855",
+		"county": "Braila",
+		"country": "RO"
+	},
+"sortCode" : "010039",
+"customTag" : "test us account"
+}

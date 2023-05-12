@@ -1,0 +1,9 @@
+{
+  "Message": "The ressource does not exist",
+  "Type": "ressource_not_found",
+  "Id": "77450216-9b4c-4907-9b67-309e5659ae9c#1581663624",
+  "Date": "1581663625",
+  "errors": {
+    "RessourceNotFound": "Cannot found the ressource Card with the id=22639018"
+  }
+}

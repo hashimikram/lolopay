@@ -1,0 +1,25 @@
+{
+  "customTag": "customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn customTagAVSCreateDirectPayIn",
+  "creditedWalletId": "1234jjll",
+  "amount": {
+  "value": "-11",
+  "currency": "RON"
+  },
+  "fees": {
+  "value": "-2",
+  "currency": "RON"
+  },
+  "feeModel": "INCLUD",
+  "secureModeReturnURL": "secureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURLsecureModeReturnURL",
+  "cardId": "1234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678123456781234567812345678",
+  "secureMode": "DEF",
+  "statementDescriptor": "qq 123 bb&cc",
+  "billing": {
+    "addressLine1": "Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2 Aleea Barsanesti, nr.2",
+    "addressLine2": "Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari Militari",
+    "city": "Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti Bucuresti",
+    "county": "Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia Muntenia",
+    "postalCode": "75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001 75001",
+    "country": "JJ"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"creditedWalletId" :"@walletId@",
+    "amount" : {
+        "value" : 500,
+        "currency" : "USD"
+    },
+    "fees" : {
+        "value" : 100,
+        "currency" : "USD"
+    },
+    "feeModel":"NOT_INCLUDED",
+    "returnURL" : "http://127.0.0.1/service/api5/deposit/response",
+    "cardType" : "CB_VISA_MASTERCARD",
+    "secureMode" : "FORCE",
+    "culture" : "EN",
+    "templateURL" : "https://service.moneymailme.com/payline_template/test_index.html",
+	"statementDescriptor" : "SD12345",
+    "customTag" : "custom tag from client"
+}

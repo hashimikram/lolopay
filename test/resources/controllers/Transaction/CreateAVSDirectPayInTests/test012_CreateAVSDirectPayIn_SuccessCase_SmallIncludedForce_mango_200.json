@@ -1,0 +1,49 @@
+{
+  "Id": "74447466",
+  "Tag": "customTagCreateAVSDirectPayIn",
+  "CreationDate": 1580712380,
+  "AuthorId": "73667824",
+  "CreditedUserId": "73667824",
+  "DebitedFunds": {
+    "Currency": "EUR",
+    "Amount": 10
+  },
+  "CreditedFunds": {
+    "Currency": "EUR",
+    "Amount": 8
+  },
+  "Fees": {
+    "Currency": "EUR",
+    "Amount": 2
+  },
+  "Status": "CREATED",
+  "ResultCode": null,
+  "ResultMessage": null,
+  "ExecutionDate": null,
+  "Type": "PAYIN",
+  "Nature": "REGULAR",
+  "CreditedWalletId": "74268416",
+  "DebitedWalletId": null,
+  "PaymentType": "CARD",
+  "ExecutionType": "DIRECT",
+  "SecureMode": "FORCE",
+  "CardId": "12639018",
+  "SecureModeReturnURL": "https://www.voxfinance.ro/?transactionId=74447466",
+  "SecureModeRedirectURL": "http://localhost/CVV/collectVirtualCVV?token=5748618bd5574f1e8464c8345d20e6a7&preAuth=False",
+  "SecureModeNeeded": true,
+  "Billing": {
+    "Address": {
+      "AddressLine1": "Aleea Barsanesti, nr.2",
+      "AddressLine2": "Militari",
+      "City": "Bucuresti",
+      "Region": "Muntenia",
+      "PostalCode": "75001",
+      "Country": "RO"
+    }
+  },
+  "Culture": "EN",
+  "SecurityInfo": {
+    "AVSResult": "NO_CHECK"
+  },
+  "StatementDescriptor": "Feb2020"
+}

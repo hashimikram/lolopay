@@ -1,0 +1,25 @@
+{
+  "customTag": "customTagCreateAVSDirectPayIn",
+  "creditedWalletId": "@creditedWalletId@",
+  "amount": {
+    "value": "-11",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "0",
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUDED",
+  "secureModeReturnURL": "@secureModeReturnURL@",
+  "cardId": "@cardId@",
+  "secureMode": "DEFAULT",
+  "statementDescriptor": "Feb2020",
+  "billing": {
+    "addressLine1": "Aleea Barsanesti, nr.2",
+    "addressLine2": "Militari",
+    "city": "Bucuresti",
+    "county": "Muntenia",
+    "postalCode": "75001",
+    "country": "RO"
+  }
+}

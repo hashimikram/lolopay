@@ -1,0 +1,16 @@
+//test server connect
+DEV1 Server: 82.78.70.35
+Root: sorin
+Pass: Daciatr88mys!
+ssh sorin@82.78.70.35
+
+//mango staging
+Mango: m3application4test
+Alin1980!
+
+//not needed services
+sudo service apache2 stop
+sudo service mysql stop
+
+//
+netstat -ntlp

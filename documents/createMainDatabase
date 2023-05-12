@@ -1,0 +1,65 @@
+#create application user - first time when deployed
+use admin
+db.createUser(
+    {
+      user: "applicationAdministrator",
+      pwd: "aD34Decjd93rdf2DDferi8emDFr08cv",
+      roles:  [ "readWriteAnyDatabase", "dbAdminAnyDatabase", "clusterAdmin", "userAdminAnyDatabase" , { role: "root", db: "admin" }]
+    }
+);
+
+#create main database and add the same admin user
+use iss_lolopay_main
+db.createUser(
+    {
+      user: "applicationAdministrator",
+      pwd: "aD34Decjd93rdf2DDferi8emDFr08cv",
+      roles:  [ "dbAdmin", "dbOwner", "read", "readWrite", "userAdmin"]
+    }
+);
+
+#connect to mongo main
+mongo -u root -p toor --authenticationDatabase admin
+mongo -u applicationAdministrator -p aD34Decjd93rdf2DDferi8emDFr08cv --authenticationDatabase admin
+mongo -u applicationAdministrator -p aD34Decjd93rdf2DDferi8emDFr08cv --authenticationDatabase iss_lolopay_main
+
+
+#create application user - first time when deployed
+use admin
+db.createUser(
+    {
+      user: "m3dbadmin",
+      pwd: "m3DBPass123",
+      roles:  [ "readWriteAnyDatabase", "dbAdminAnyDatabase", "clusterAdmin", "userAdminAnyDatabase" , { role: "root", db: "admin" }]
+    }
+);
+
+#create main database and add the same admin user
+use iss_lolopay_moneymailme
+db.createUser(
+    {
+      user: "m3dbadmin",
+      pwd: "m3DBPass123",
+      roles:  [ "dbAdmin", "dbOwner", "read", "readWrite", "userAdmin"]
+    }
+);
+
+#create DINARE application user - first time when deployed
+use admin
+db.createUser(
+    {
+      user: "dinareadmin",
+      pwd: "U$cqbDz7N6p3",
+      roles:  [ "readWriteAnyDatabase", "dbAdminAnyDatabase", "clusterAdmin", "userAdminAnyDatabase" , { role: "root", db: "admin" }]
+    }
+);
+
+#create main database and add the same admin user
+use iss_lolopay_dinare
+db.createUser(
+    {
+      user: "dinareadmin",
+      pwd: "U$cqbDz7N6p3",
+      roles:  [ "dbAdmin", "dbOwner", "read", "readWrite", "userAdmin"]
+    }
+);

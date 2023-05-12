@@ -1,0 +1,14 @@
+{
+  "customTag": "customTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfercustomTagCreateTransfer",
+  "debitedWalletId": "ddww2222",
+  "creditedWalletId": "ccww3333",
+  "amount": {
+    "value": "-11",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "-3",
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUD"
+}

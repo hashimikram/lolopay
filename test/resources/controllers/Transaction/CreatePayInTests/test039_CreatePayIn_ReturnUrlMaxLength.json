@@ -1,0 +1,18 @@
+{
+  "customTag": "customTagCreatePayIn",
+  "creditedWalletId": "@creditedWalletId@",
+  "amount": {
+    "value": "11",
+    "currency": "@currency@"
+  },
+  "fees": {
+    "value": "0",
+    "currency": "@currency@"
+  },
+  "feeModel": "INCLUDED",
+  "returnURL": "https://www.google.com/search?ei=dVw5XozJGO6ArwSHnbfYAg&q=how+to+fix+error+500+internal+server+error+in+java+for+a+linux+computer&oq=how+to+fix+error+500+internal+server+error+in+java+for+a+linux+computer&gs_l=psy-ab.3...15650.36632..36755...9.2..3.211.4873.18j21j3......0....1..gws-wiz.......0i71j0j0i22i30j33i22i29i30j33i10i160j33i10j33i160.l_GKKjFnCBo&ved=0ahUKEwjM17mY7LfnAhVuwIsKHYfODSsQ4dUDCAs&uact=5",
+  "cardType": "CB_VISA_MASTERCARD",
+  "secureMode": "DEFAULT",
+  "culture": "EN",
+  "statementDescriptor": "Feb2020"
+}

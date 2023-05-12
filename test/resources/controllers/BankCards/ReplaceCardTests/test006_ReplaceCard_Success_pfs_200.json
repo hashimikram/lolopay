@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "body": {
+    "bankCard": {
+      "id": "5e30382bc7afc19c6f8952fe",
+      "createdAt": 1580218411,
+      "updatedAt": 1580218411,
+      "providerId": "400000834586"
+    }
+  }
+}

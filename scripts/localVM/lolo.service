@@ -1,0 +1,24 @@
+[Unit]
+Description=LOLOPAY HD
+Wants=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/srv/www/lolo/lolopay-1.0-SNAPSHOT
+PIDFile=/srv/www/lolo/lolopay-1.0-SNAPSHOT/RUNNING_PID
+SyslogIdentifier=LOLOPAY
+ExecStartPre=/bin/chown -R cornel:cornel /srv/www/lolo
+ExecStartPre=/bin/chmod -R 755 /srv/www/lolo
+ExecStartPre=/srv/www/lolo/lolopay-1.0-SNAPSHOT/bin/init-errors-data \
+	-Dhttp.port=9001
+ExecStart=/srv/www/lolo/lolopay-1.0-SNAPSHOT/bin/lolopay \
+	-Dhttp.port=9001
+Restart=always
+RestartSec=10s
+User=cornel
+Group=cornel
+SuccessExitStatus=143
+EnvironmentFile=/srv/www/lolo/lolopay-1.0-SNAPSHOT/conf/env-vm.conf
+
+[Install]
+WantedBy=multi-user.target

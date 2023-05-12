@@ -1,0 +1,30 @@
+{
+  "Id": "85093209",
+  "Tag": "customTagCreatePayOut",
+  "CreationDate": "1581696563",
+  "AuthorId": "73667824",
+  "CreditedUserId": "73667824",
+  "DebitedFunds": {
+    "Currency": "EUR",
+    "Amount": "8"
+  },
+  "CreditedFunds": {
+    "Currency": "EUR",
+    "Amount": "8"
+  },
+  "Fees": {
+    "Currency": "EUR",
+    "Amount": "0"
+  },
+  "Status": "SUCCEEDED",
+  "ResultCode": "000000",
+  "ResultMessage": "Success",
+  "ExecutionDate": "1581696563",
+  "Type": "PAYOUT",
+  "Nature": "REGULAR",
+  "CreditedWalletId": null,
+  "DebitedWalletId": "74268416",
+  "PaymentType": "BANK_WIRE",
+  "BankAccountId": "11696419",
+  "BankWireRef": "invoice 8855"
+}

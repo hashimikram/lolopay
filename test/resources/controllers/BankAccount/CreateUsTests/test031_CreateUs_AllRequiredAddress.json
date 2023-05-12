@@ -1,0 +1,16 @@
+{
+  "userId": "",
+  "accountNumber": "",
+  "aba": "",
+  "depositAccountType": "",
+  "ownerName": "",
+  "ownerAddress": {
+    "addressLine1": "",
+    "addressLine2": "",
+    "city": "",
+    "county": "",
+    "postalCode": "",
+    "country": ""
+  },
+  "customTag": ""
+}

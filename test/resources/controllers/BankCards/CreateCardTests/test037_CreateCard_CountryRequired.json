@@ -1,0 +1,18 @@
+{
+  "userId": "@userId@",
+  "type": "PHYSICAL",
+  "customTag": "custom tag",
+  "embossName": "",
+  "firstName": "Cornel",
+  "lastName": "ZGARDAN",
+  "address1": "adasdasdasdasdasdasadasdasdasdasdasdasadasdaasadasasdas",
+  "city": "pucioasa",
+  "zipCode": "123",
+  "cardUserInfo": {
+    "employmentStatus": "DIRECTOR_OWNER",
+    "occupation": "BANKING_INSURANCE",
+    "purpose": "RECEIVE_SALARY",
+    "monthlyIncome": "BELOW_1000_EUR",
+    "estate": "BELOW_50K_EUR"
+  }
+}

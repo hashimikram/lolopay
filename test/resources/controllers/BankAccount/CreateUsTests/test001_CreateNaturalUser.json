@@ -1,0 +1,19 @@
+{
+  "firstName": "Justina",
+  "lastName": "Lazar",
+  "email": "justina.lazar@gmoneymail.me",
+  "mobilePhone": "40747076602",
+  "occupation": "Programator",
+  "incomeRange": "BELOW_30K",
+  "birthDate": 497801331,
+  "nationality": "RO",
+  "countryOfResidence": "RO",
+  "address": {
+    "addressLine1": "Aleea Barsanesti, nr.2",
+    "addressLine2": "Militari",
+    "city": "Bucuresti",
+    "county": "Muntenia",
+    "postalCode": "75001",
+    "country": "RO"
+  }
+}

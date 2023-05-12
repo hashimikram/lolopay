@@ -1,0 +1,27 @@
+{
+  "Id": "75177975",
+  "Tag": "customTagCreateTransfer",
+  "CreationDate": "1581928816",
+  "AuthorId": "73567939",
+  "CreditedUserId": "73567939",
+  "DebitedFunds": {
+    "Currency": "EUR",
+    "Amount": "35"
+  },
+  "CreditedFunds": {
+    "Currency": "EUR",
+    "Amount": "34"
+  },
+  "Fees": {
+    "Currency": "EUR",
+    "Amount": "1"
+  },
+  "Status": "FAILED",
+  "ResultCode": "008006",
+  "ResultMessage": "Fraud suspected by the bank",
+  "ExecutionDate": "1581928816",
+  "Type": "TRANSFER",
+  "Nature": "REGULAR",
+  "DebitedWalletId": "74268416",
+  "CreditedWalletId": "74268547"
+}
